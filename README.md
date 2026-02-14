@@ -1,25 +1,54 @@
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 10px 0; width: 100%; max-width: 900px; margin: 0 auto; flex-wrap: nowrap;">
-  <b style="font-size: 1.5rem; white-space: nowrap;">Hi 👋, I'm Krishna Gehlot</b>
-</div>
+<!-- Hero Section -->
+<h1 align="center">❄️ Backend Hacker | ✨ Krishna Gehlot ✨ | Distributed Systems ❄️</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img
+    width="200"
+    height="200"
+    src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"
+    alt="Go Gopher"
+  />
+</p>
 
-A Full Stack Developer
+<h3 align="center">
+  building scalable backends · distributed systems · real-time infra
+</h3>
 
-🌱 I'm currently learning **Web3**, **AI/ML**, and building real-world projects
+<p align="center">
+  <b>
+    “I don't let schooling interfere with my education.”
+  </b>
+</p>
 
-📝 Creative Problem Solver & Passionate Learner
+---
 
-💬 Ask me about **React.js, TypeScript, Databases, Node.js, Next.js, Tailwind**
+### 👋 About Me
 
-📫 Reach me at **krishnagehlot936@gmail.com**
-  
+- ⚙️ Backend developer focused on **distributed systems**
+- 🐹 Strong interest in **Go**, Node.js & system-level thinking
+- 🌐 Build **low-latency**, **fault-tolerant** services
+- 🧵 Love async systems, queues, streams & consistency trade-offs
+- 📫 Reach me at **krishnagehlot936@gmail.com**
+
+---
+
+### 🛠 Backend & Systems Stack
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Things I Build With**
+
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,java,postgres,mongodb,redis,docker,kubernetes,linux,bash,nginx,cloudflare,grpc,prisma,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://yourwebsite.com)
+---
+
+### 🚀 What I Care About
+
+- Distributed systems fundamentals (CAP, consensus, replication)
+- Event-driven architectures & message queues
+- System design, scaling & failure modes
+- Infrastructure-aware backend engineering
+
 
 <br/>
 
@@ -45,7 +74,7 @@ A Full Stack Developer
   <!-- Salesp07 Custom Stats -->
   <span>
     <a href="#">
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=NSTKrishna&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=NSTKrishna&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
     </a>
   </span>
 
