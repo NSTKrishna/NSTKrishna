@@ -103,3 +103,8 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="28"/>
   </a>
 </div>
+
+<div>
+  <H4>Visitor Count</H4>
+  <img src="https://count.getloli.com/@Krishna Gehlot?name=Krishna+Gehlot&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</div>
