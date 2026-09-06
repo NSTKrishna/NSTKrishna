@@ -102,6 +102,7 @@
   <a href="https://github.com/NSTKrishna" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="28"/>
   </a>
+  <a href="https://deepwiki.com/kubeflow/kubeflow"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
 
 <div>
